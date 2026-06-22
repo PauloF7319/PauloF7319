@@ -53,7 +53,7 @@ My goal is to bridge the gap between business needs and technical solutions, tra
 
 ### Python AI Coder
 
-An AI-powered Python programming assistant built with Streamlit and Groq API.
+An AI powered Python programming assistant built with Streamlit and Groq API.
 
 Key Features:
 
@@ -94,4 +94,4 @@ GitHub:
 https://github.com/PauloF7319
 
 LinkedIn:
-(Add your LinkedIn profile here)
+www.linkedin.com/in/pcfaria73
